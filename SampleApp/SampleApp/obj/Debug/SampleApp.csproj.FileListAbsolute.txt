@@ -1,0 +1,7 @@
+C:\Users\Pari Poorni P\source\repos\SampleApp\SampleApp\bin\Debug\SampleApp.exe.config
+C:\Users\Pari Poorni P\source\repos\SampleApp\SampleApp\bin\Debug\SampleApp.exe
+C:\Users\Pari Poorni P\source\repos\SampleApp\SampleApp\bin\Debug\SampleApp.pdb
+C:\Users\Pari Poorni P\source\repos\SampleApp\SampleApp\obj\Debug\SampleApp.csprojAssemblyReference.cache
+C:\Users\Pari Poorni P\source\repos\SampleApp\SampleApp\obj\Debug\SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\Pari Poorni P\source\repos\SampleApp\SampleApp\obj\Debug\SampleApp.exe
+C:\Users\Pari Poorni P\source\repos\SampleApp\SampleApp\obj\Debug\SampleApp.pdb
